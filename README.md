@@ -2,7 +2,7 @@
 Analysis of crime rate in Nigeria 🇳🇬
 
 ##  Project Overview
-This project is aimed at finding data-driven solutions to solving crime rate in Nigeria. This project also aims to provide insight into the crime rate over the course of three years.
+This project is aimed at finding data-driven solutions to solving crime rate in Nigeria. This project also aim to provide insight into the crime rate over the course of three years.
 Ultimately, providing recommendation on how to tackle these incidents moving forward.
 
 ![Nigeria crime rate](https://github.com/user-attachments/assets/f38a79b9-5a6b-46ca-b61b-fe52ea51f64f)
